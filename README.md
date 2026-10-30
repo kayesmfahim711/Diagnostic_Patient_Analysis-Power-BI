@@ -29,7 +29,7 @@ The dashboard transforms operational data into interactive reports, KPIs, trends
 ![Patients Trend Analysis 2](Dashboard_Pages_Screenshort/6.Patients_Trend_Analysis_2.png)
 
 ### 8. Patients Trend Analysis – 3
-![Patients Trend Analysis 3](Dashboard_Pages_Screenshort/7.Patients_Trend_Analysis_3.png)
+![Patients Trend Analysis 3](./Dashboard_Pages_Screenshort/7.Patients_Trend_Analysis_3.png)
 
 ### 9. MTD Analysis
 ![MTD Analysis](Dashboard_Pages_Screenshort/8.MTD_Analysis.png)
