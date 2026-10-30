@@ -23,7 +23,7 @@ The dashboard transforms operational data into interactive reports, KPIs, trends
 ![Radiology Analysis](Dashboard_Pages_Screenshort/4.Radiology_Analysis.png)
 
 ### 6. Patients Trend Analysis – 1
-![Patients Trend Analysis 1](Dashboard_Pages_Screenshort/5. Patients_Trend_Analysis_1.png)
+![Patients Trend Analysis 1](Dashboard_Pages_Screenshort/5.%20Patients_Trend_Analysis_1.png)
 
 ### 7. Patients Trend Analysis – 2
 ![Patients Trend Analysis 2](Dashboard_Pages_Screenshort/6.Patients_Trend_Analysis_2.png)
@@ -35,7 +35,7 @@ The dashboard transforms operational data into interactive reports, KPIs, trends
 ![MTD Analysis](Dashboard_Pages_Screenshort/8.MTD_Analysis.png)
 
 ### 10. MTD vs LMTD Analysis
-![MTD vs LMTD Analysis](Dashboard_Pages_Screenshort/9.MTD_vs_LMTD_Analysis.png)
+![MTD vs LMTD Analysis](Dashboard_Pages_Screenshort/9.MTD_vs_LMTD%20Analysis.png)
 
 ### 11. QTD Analysis
 ![QTD Analysis](Dashboard_Pages_Screenshort/10.QTD_Analysis_1.png)
